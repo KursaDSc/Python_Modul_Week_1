@@ -16,7 +16,7 @@ else:
     print("Obez")
 
 
-
+#translate der ki:
 #Kişinin kilo endeksini hesaplayan ve endeks değerine göre zayıf, kilolu veya fazla kilolu olarak sonucu döndüren kodu yazınız. 
 #(Ağırlık endeksi hesaplamasını internetten araştırabilirsiniz) Bunun için kullanıcıdan kilo ve boy ölçümlerini isteyin. 
 #Kilo endeksiniz 25'in altındaysa zayıf, 25-30 arasıysa normal, 30-40'ın üzerindeyse kilolusunuz. 
