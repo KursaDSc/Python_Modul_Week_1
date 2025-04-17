@@ -39,3 +39,27 @@ If you are over 40, you are overweight.
 3.  https://www.hackerrank.com/challenges/python-print/problem
 4.  https://www.hackerrank.com/challenges/finding-the-percentage/problem
 
+
+# Python_Modul_Week_1
+
+Bu repo, `werhereitacademy/Python_Modul_Week_1` eğitim modülü kapsamında takım olarak hazırladığımız çözümleri içermektedir.
+
+## 🔧 Yapı
+
+- `members/`: Her takım üyesi burada kendi çözüm klasöründe çalışır.
+- `final/`: Takım olarak belirlenmiş, gözden geçirilmiş nihai çözümler.
+
+## 📌 Katkı Kuralları
+
+1. Herkes kendi klasöründe çalışır (`members/adınız/`)
+2. Bitirdiğiniz dosyaları kendi adınıza bir branch ile push edin
+3. PR açın, birlikte gözden geçirelim, sonra `main` branch'e alalım
+4. Final çözümler sadece takım lideri tarafından `final/` klasörüne yerleştirilir
+
+## 🧠 Takım Üyeleri
+- Ali
+- Furkan
+- Kürşad
+- Mehmet
+- Mustafa
+
