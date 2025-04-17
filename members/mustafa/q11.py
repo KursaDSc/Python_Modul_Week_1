@@ -1,0 +1,5 @@
+sayi_1 = int(input("1. Sayıyı Giriniz: "))
+sayi_2 = int(input("2. Sayıyı Giriniz: "))
+sayi_3 = int(input("3. Sayıyı Giriniz: "))
+buyuk = max(sayi_1, sayi_2, sayi_3)
+print(buyuk)
