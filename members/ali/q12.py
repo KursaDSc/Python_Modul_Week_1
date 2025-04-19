@@ -11,4 +11,4 @@ for i in range(1, 5):  # 4 ders için
     else:
         print("FAILED (BAŞARISIZ)")
     
-    print("-" * 30)  # Ayraç çizgisi
+    print("=" * 50)  # Ayraç çizgisi
